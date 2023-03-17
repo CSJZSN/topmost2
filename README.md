@@ -2,15 +2,15 @@
 	<a href="https://github.com/jerrylum/topmost2"><img src="https://i.imgur.com/r7PW6a2.png" alt="IntroIcon" width="100"></a>
 </p>
 <h3 align="center">TopMost2</h3>
-<p align="center">This tool allows you to make any windows always on top.</p>
+<p align="center">此工具允许您使任何窗口始终位于顶部。</p>
 
-<h4 align="center"><a href="https://github.com/jerrylum/topmost2/releases">Download Now</a></h4>
+<h4 align="center"><a href="https://github.com/jerrylum/topmost2/releases">现在下载</a></h4>
 
 ---
 
-### Double Click
+### 双击
 
-Double Click the tray icon, make the current selected window stay on top.
+双击任务栏图标，使当前选定的窗口保持置顶。
 
 <h5 align="left">
 <img src="https://i.imgur.com/kuBflkz.gif">
@@ -18,18 +18,17 @@ Double Click the tray icon, make the current selected window stay on top.
 
 <br>
 
-### Global Hotkey
+### 全局热键
 
-Use the default hotkey `Ctrl + Alt + Space` to make the current selected window stay on top.
-
+使用默认热键“Ctrl+Alt+Space”使当前选定的窗口保持置顶。
 <h5 align="left">
 <img src="https://i.imgur.com/NokjMLd.gif">
 </h5>
 <br>
 
-### Change The Hotkey
+### 更改热键
 
-Right click the tray icon and go to `options` page to change the hotkey to your own favorite combination.
+右键单击任务栏图标，然后转到“选项”页面，将热键更改为您自己喜欢的组合。
 
 <h5 align="left">
 <img src="https://i.imgur.com/LfNdpHR.gif">
@@ -37,9 +36,9 @@ Right click the tray icon and go to `options` page to change the hotkey to your 
 
 <br>
 
-### Window List
+### 窗口列表
 
-Click on a menu item from the `Window List` to pin or unpin any windows.
+单击“窗口列表”中的菜单项可以固定或取消固定任何窗口。
 
 <h5 align="left">
 <img src="https://i.imgur.com/6KIfi3d.gif">
@@ -47,23 +46,23 @@ Click on a menu item from the `Window List` to pin or unpin any windows.
 
 <br>
 
-### Other Features
+### 其他功能
 
-- Dynamic icon
-- Clear all function
-- Automatically startup option
-- Enable/Disable keyboard shortcut option
-- Freely customizable hotkey
-- Global hotkey
-- Command-line support
-- High compatibility with other programs  
-- Negligible system resources usage
+- 动态图标
+- 清除所有置顶
+- 自启动选项
+- 启用/禁用键盘快捷方式选项
+- 可自由自定义热键
+- 全局热键
+- 命令行支持
+- 与其他程序的高度兼容性 
+- 可忽略的系统资源使用情况
 
 
 
 ---
 
-### Why do I need this?
+### 为什么我需要这个？
 
 `Topmost` or `Always On Top` is a property of every window you see on your computer. A window whose Topmost property is set to `true` appears above all windows whose Topmost properties are set to `false`.  <br>
 
