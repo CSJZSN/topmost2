@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://github.com/jerrylum/topmost2"><img src="https://i.imgur.com/r7PW6a2.png" alt="IntroIcon" width="100"></a>
+  <a href="https://github.com/jerrylum/topmost2"><img src="https://i.imgur.com/r7PW6a2.png" alt="IntroIcon" width="100"></a>
 </p>
 <h3 align="center">TopMost2</h3>
 <p align="center">此工具允许您使任何窗口始终位于顶部。</p>
@@ -64,17 +64,17 @@
 
 ### 为什么我需要这个？
 
-`Topmost` or `Always On Top` is a property of every window you see on your computer. A window whose Topmost property is set to `true` appears above all windows whose Topmost properties are set to `false`.  <br>
+`Topmost` 或 `Always On Top` 是您电脑上每个可视窗口的属性。当窗口属性 Topmost 设置为 `true` 那么届时窗口将置于所有窗口的 Topmost 属性值为 `false` 之上.  <br>
 
-Many windows applications don’t offer an option to make itself topmost. When you are browsing multiple windows at the same time, this may make you annoyed by frequent switching to different windows. With TopMost2,  you can add this feature to any applications and solve the above problem.
+但许多 Windows 应用程序不提供使自己应用置顶的选项。当您同时浏览多个窗口时，这可能会让您因频繁切换到不同的窗口而感到恼火。使用TopMost2，您可以将此功能添加到任何应用程序中并解决上述问题。
 
 
 
-### Details
+### 详情 
 
-- **Tray Icon**  
-  The color of the icon represents the top-most state of the current selected window.  
-  🟥RED = Normal, 🟩GREEN = Top-most
+- **任务栏图标**  
+  图标的颜色表示当前选定窗口的置顶状态。
+  🟥红 = 正常, 🟩绿 = 置顶
   
 - **Clear All Function**  
   This function will set all windows to normal states.
